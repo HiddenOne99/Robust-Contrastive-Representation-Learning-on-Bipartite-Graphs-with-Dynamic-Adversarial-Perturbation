@@ -9,6 +9,7 @@ conda env create -f requirements.yml -n newname
 ~~~
 
 2- To run recommendation for ML-100K dataset use adgclrec.py
+
 3- To run link prediction for Wiki dataset use adgcllp.py
 
 ***NOTE***:
