@@ -4,4 +4,6 @@ This repo uses an adversarial mechanism to directly perturb bipartite node embed
 
 How to use:
 1- Install the requirements using:
-~~~ conda env create -f environment.yml -n newname ~~~
+~~~
+conda env create -f environment.yml -n newname
+~~~
